@@ -1,0 +1,13 @@
+.cms-img-box {
+  position: relative; }
+  .cms-img-box__img {
+    max-width: 100%; }
+  .cms-img-box__title {
+    position: absolute;
+    top: 50%;
+    left: 6%;
+    transform: translateY(-50%);
+    margin: 0;
+    padding: 20px; }
+
+/*# sourceMappingURL=swcmscategories.css.map */

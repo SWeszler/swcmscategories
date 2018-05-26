@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,YAAa;EACT,QAAQ,EAAE,QAAQ;EAClB,iBAAO;IACH,SAAS,EAAE,IAAI;EAEnB,mBAAS;IACL,QAAQ,EAAE,QAAQ;IAClB,GAAG,EAAE,GAAG;IACR,IAAI,EAAE,EAAE;IACR,SAAS,EAAE,gBAAgB;IAC3B,MAAM,EAAE,CAAC;IACT,OAAO,EAAE,IAAI",
+"sources": ["../scss/swcmscategories.scss"],
+"names": [],
+"file": "swcmscategories.css"
+}

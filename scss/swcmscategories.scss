@@ -1,0 +1,16 @@
+
+
+.cms-img-box {
+    position: relative;
+    &__img {
+        max-width: 100%;
+    }
+    &__title {
+        position: absolute;
+        top: 50%;
+        left: 6%;
+        transform: translateY(-50%);
+        margin: 0;
+        padding: 20px;
+    }
+}

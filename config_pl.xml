@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-	<name>swsetup</name>
-	<displayName><![CDATA[SW Setup]]></displayName>
+	<name>swcmscategories</name>
+	<displayName><![CDATA[SW CMS Categories]]></displayName>
 	<version><![CDATA[1.6.1]]></version>
 	<description><![CDATA[]]></description>
 	<author><![CDATA[Sebastian Weszler]]></author>
